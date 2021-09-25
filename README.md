@@ -22,3 +22,5 @@ Components Used
 - PIR Sensor
 - Inbuilt Pedometer in Phone
 - HC-05 Bluetooth Module
+- Push Button
+- Pull-Down Resistor
