@@ -24,3 +24,11 @@ Components Used
 - HC-05 Bluetooth Module
 - Push Button
 - Pull-Down Resistor
+
+
+Softwares Used
+---------------
+
+- Arduino IDE for main coding
+- MIT App Inventor 2 for Smar Glass Application in phone
+- Proteus for circuit simulation
