@@ -3,5 +3,5 @@
 -Features
 -----------
 
--> Date
--> Time
+- Date
+- Time
